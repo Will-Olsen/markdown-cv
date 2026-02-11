@@ -13,13 +13,13 @@ BPharm(Hons) PhD AFHEA
 
 ## Currently
 
-Lecturer and Research Fellow (Level B) at the School of Pharmacy and Pharmaceutical Sciences at the University of Queensland.
+Lecturer (Level B) and Program Lead of BPharm(hons) and Intern Training Program in the School of Pharmacy and Pharmaceutical Sciences at the University of Queensland.
 
 ### Specialized in
 
 Research at the intersection of pharmacy practice and bioethics.
 
-Teaching medicines management and ethical-decision making.
+Teaching pharmacy practice, medicines management and ethical-decision making.
 
 
 ### Research interests
@@ -34,7 +34,6 @@ __The University of Queensland__ School of Pharmacy and Pharmaceutical Sciences
 
 - Bachelor of Pharmacy (Honours)
 - Major in Clinical and Experimental Therapeutics
-
 
 `2021-2025`
 __The University of Queensland__ School of Pharmacy and Pharmaceutical Sciences
@@ -61,6 +60,9 @@ __Tutors@UQ__ The University of Queensland (ITaLI)
 `2024`
 __Graduate Teaching Associates program__ The University of Queensland (ITaLI)
 
+`2025`
+__Associate Fellow of the Higher Education Academy__ Advance HE
+
 ## Professional Experience
 
 `2025-Present`
@@ -68,8 +70,8 @@ __Lecturer (Level B)__ UQ School of Pharmacy and Pharmaceutical Sciences
 
 - Course Coordinator: PHRM1203, PHRM7203
 
-`2025-Present`
-__Senior Research Officer (Level B)__ UQ School of Pharmacy and Pharmaceutical Sciences
+`2025-2026`
+__Research Fellow (Level B)__ UQ School of Pharmacy and Pharmaceutical Sciences
 
 `2023-Present`
 __Guest Lecturer__ UQ School of Nursing, Midwifery and Social Work
@@ -91,6 +93,9 @@ __Intern Pharmacist__ The Valley Discount Drug Store
 
 
 ## Professional Service
+
+`2025-Present`
+__Program Lead BPharm(hons) & ITP__ UQ School of Pharmacy and Pharmaceutical Sciences
 
 `2024-Present`
 __Committee Member__ Metro South Human Research Ethics Committee
@@ -179,6 +184,11 @@ __ADeN Deprescribing Learning Club__
 
 - What can ethics research accomplish for deprescribing? (Oral presentation)
 
+`2026`
+__Royal Brisbane and Women's Hospital Pharmacy Department__
+
+- Ethical decision-making and professional responsibility in pharmacy practice (Workshop)
+
 ## Key publications
 
 A full list of my publications is available [online via ORCID](https://orcid.org/my-orcid?orcid=0000-0001-7719-3275)
@@ -188,5 +198,6 @@ A full list of my publications is available [online via ORCID](https://orcid.org
 `2023`
 Olsen, WM., Freeman, CR., Adewumi, A., La Caze, A., *A scoping review of health system guidelines for pharmacist responsibilities when dispensing opioids*, Exploratory Research in Clinical and Social Pharmacy, [10.1016/j.rcsop.2023.100382](https://www.sciencedirect.com/science/article/pii/S2667276623001634?via%3Dihub)
 
-
+`2025`
+Olsen, WM., St Pierre, K., Thompson, W., Weir, KR., Freeman, CR., Bohill, R., Farrell, B., Langford, AV., O'Donnell, LK., Reeve, E., Liau, SJ., McEvoy, AM., Shrestha, S., Tesfaye, W., Breen, J., Etherton-Beer, C., Yik, J., Turner, J., and Ailabouni, NJ. *Shaping future deprescribing priorities: outcomes of a World Café stakeholder workshop*, Expert Review in Clinical Pharmacology, [17512433.2025.2609659 1-12](https://doi.org/10.1080/17512433.2025.2609659)
 
