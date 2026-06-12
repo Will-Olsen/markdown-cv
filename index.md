@@ -68,7 +68,7 @@ __Associate Fellow of the Higher Education Academy__ Advance HE
 `2025-Present`
 __Lecturer (Level B)__ UQ School of Pharmacy and Pharmaceutical Sciences
 
-- Course Coordinator: PHRM1203, PHRM7203
+- Course Coordinator: PHRM2101, PHRM1203, PHRM7203
 
 `2025-2026`
 __Research Fellow (Level B)__ UQ School of Pharmacy and Pharmaceutical Sciences
@@ -189,6 +189,11 @@ __Royal Brisbane and Women's Hospital Pharmacy Department__
 
 - Ethical decision-making and professional responsibility in pharmacy practice (Workshop)
 
+`2026`
+__Princess Alexandra Hospital Pharmacy Department__
+
+- Ethical decision-making and professional responsibility in pharmacy practice (Workshop)
+
 ## Key publications
 
 A full list of my publications is available [online via ORCID](https://orcid.org/my-orcid?orcid=0000-0001-7719-3275)
@@ -200,4 +205,7 @@ Olsen, WM., Freeman, CR., Adewumi, A., La Caze, A., *A scoping review of health 
 
 `2025`
 Olsen, WM., St Pierre, K., Thompson, W., Weir, KR., Freeman, CR., Bohill, R., Farrell, B., Langford, AV., O'Donnell, LK., Reeve, E., Liau, SJ., McEvoy, AM., Shrestha, S., Tesfaye, W., Breen, J., Etherton-Beer, C., Yik, J., Turner, J., and Ailabouni, NJ. *Shaping future deprescribing priorities: outcomes of a World Café stakeholder workshop*, Expert Review in Clinical Pharmacology, [17512433.2025.2609659 1-12](https://doi.org/10.1080/17512433.2025.2609659)
+
+`2026`
+Olsen, WM., Freeman, CR., Adewumi, A., and La Caze, A., *Pharmacists Are Responsible for Patient Outcomes When Dispensing Opioids.* American Journal of Health-System Pharmacy, [10.1093/ajhp/zxag131](https://doi.org/10.1093/ajhp/zxag131)
 
