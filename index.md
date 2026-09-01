@@ -94,6 +94,9 @@ __Intern Pharmacist__ The Valley Discount Drug Store
 
 ## Professional Service
 
+`2026-Present`
+__Representative Member__ UQ College of Peer Observers
+
 `2025-Present`
 __Program Lead BPharm(hons) & ITP__ UQ School of Pharmacy and Pharmaceutical Sciences
 
@@ -113,22 +116,7 @@ __Peer Reviewer__
 - Exploratory Research in Clinical and Social Pharmacy (6x Reviews)
 - Drug and Alcohol Review (1x Review)
 - Scientific Reports (1x Review)
-
-## Professional Skills and Competencies
-
-Providing pharmaceutical care in community pharmacy practice
-  
-Education in the Quality Use of Medicines, ethical decision-making in health and related fields, social pharmacy and pharmacoepidemiology
-  
-Interdisciplinary collaboration with prescribers and other health professionals
-  
-Accrual and reporting of Continuing Professional Development (CPD) as per the Pharmacy Board of Australia regulations.
-  
-Proficient in academic writing and the use of writing and referencing software such as the Microsoft suite, Endnote, Zotero.
-  
-Competent in the use of R and R packages including academic writing packages such as RMarkdown and Quarto.
-  
-Conducting and managing independent and collaborative research projects
+- Journal of the American Geriatrics Society (1x Review)
 
 ## Seminar and Conference attendance
 
@@ -144,8 +132,6 @@ __Australasian Association of Bioethics and Health Law Conference 2023__
 `2024`
 __ASCEPT, APFP, APSA Joint Congress__
 
-`Ongoing`
-__Regular attendance at the UQ School of Pharmacy and Pharmaceutical Sciences seminar series__
 
 ## Presentations
 
