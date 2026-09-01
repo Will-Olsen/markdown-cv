@@ -48,20 +48,14 @@ __Pharmacist__ General Registration (AHPRA)
 
 - PHA0002250329
 
-`2023-Present`
-__First Aid, CPR Certification__
-
 `2024-Present`
 __Mental Health First Aid Accreditation__ Mental Health First Aid Australia
 
-`2021`
-__Tutors@UQ__ The University of Queensland (ITaLI)
-
-`2024`
-__Graduate Teaching Associates program__ The University of Queensland (ITaLI)
-
 `2025`
 __Associate Fellow of the Higher Education Academy__ Advance HE
+
+`Ongoing`
+__Member of the Pharmaceutical Society of Australia__
 
 ## Professional Experience
 
@@ -73,14 +67,10 @@ __Lecturer (Level B)__ UQ School of Pharmacy and Pharmaceutical Sciences
 `2025-2026`
 __Research Fellow (Level B)__ UQ School of Pharmacy and Pharmaceutical Sciences
 
-`2023-Present`
-__Guest Lecturer__ UQ School of Nursing, Midwifery and Social Work
-
 `2024-2025`
 __Research Administrator__ UQ School of Pharmacy and Pharmaceutical Sciences
 
 - RECARD: REducing hospital re-admission for high-risk CARDiology patients 
-
 
 `2021-2025`
 __Casual Academic__ UQ School of Pharmacy and Pharmaceutical Sciences
@@ -110,7 +100,7 @@ __Co-convener__ ADeN Annual Meeting 2024
 __Grant Review Committee Member__ Metro South Health Research Support Scheme
 
 `Ongoing`
-__Peer Reviewer__
+__Peer Review__
 
 - BMC Medical Ethics (1x Review)
 - Exploratory Research in Clinical and Social Pharmacy (6x Reviews)
